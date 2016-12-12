@@ -1,5 +1,3 @@
-import pytest
-
 class Math:
     @staticmethod
     def add(x, y):

@@ -1,6 +1,4 @@
 from Math import Math
-from unittest import TestCase
-
 
 def test_add():
     assert Math.add(3, 4) == 7
